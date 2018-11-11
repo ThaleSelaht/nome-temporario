@@ -1,11 +1,11 @@
 {
-  "name": "nome-temporario",
+  "name": "ventania-digital",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "eslint src/*.js"
+    "lint": "eslint public/src/*.js"
   },
   "repository": {
     "type": "git",
